@@ -1,0 +1,2 @@
+This repository contains the kernel configuration for the Samsung Galaxy Tab S 8.4 to enable setting SELinux to permissive mode at runtime and also to disable Samsung's anti-rooting restrictions. You will need to retrieve the kernel source from http://opensource.samsung.com/ and follow the instructions to compile, replacing the appropriate configuration file with the one found in this repository.
+
